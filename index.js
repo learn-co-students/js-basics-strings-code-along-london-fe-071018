@@ -1,1 +1,8 @@
 // Write your code in this file!
+let currentUser='ABCD XYZ';
+
+let welcomeMessage = 'Welcome to Flatbook, '+ currentUser + '!';
+
+let excitedWelcomeMessage='WELCOME TO FLATBOOK, ' + currentUser + '!';
+
+let shortGreeting='Welcome, ' + currentUser.substring(0,1) + '!';
